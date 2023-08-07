@@ -67,7 +67,7 @@ class _AgeCalculatorState extends State<AgeCalculator> {
             SizedBox(height: 15),
             ElevatedButton(
               onPressed: calculateAge,
-              child: Text('Calcular Idade'),
+              child: Text('Descobridor de idade'),
             ),
             SizedBox(height: 15),
             Text(
